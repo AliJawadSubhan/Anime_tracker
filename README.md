@@ -1,6 +1,6 @@
 # Anime Tracker
 
-Anime Tracker is an innovative app designed to identify anime from images, providing accurate results quickly. Utilizing the powerful trace.moe API, it simplifies the process of finding out which anime an image is from. With a great, scalable code structure, it ensures a smooth and efficient user experience.
+Anime Tracker is an innovative app designed to identify anime from images, providing accurate results quickly. Utilizing the powerful trace.moe API.
 
 ## Key Features
 
